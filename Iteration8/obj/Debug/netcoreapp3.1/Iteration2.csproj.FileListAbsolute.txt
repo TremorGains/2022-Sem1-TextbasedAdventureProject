@@ -1,0 +1,14 @@
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\obj\Debug\netcoreapp3.1\Iteration2.csproj.AssemblyReference.cache
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\obj\Debug\netcoreapp3.1\Iteration2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\obj\Debug\netcoreapp3.1\Iteration2.AssemblyInfoInputs.cache
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\obj\Debug\netcoreapp3.1\Iteration2.AssemblyInfo.cs
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\obj\Debug\netcoreapp3.1\Iteration2.csproj.CoreCompileInputs.cache
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\bin\Debug\netcoreapp3.1\Iteration2.exe
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\bin\Debug\netcoreapp3.1\Iteration2.deps.json
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\bin\Debug\netcoreapp3.1\Iteration2.runtimeconfig.json
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\bin\Debug\netcoreapp3.1\Iteration2.runtimeconfig.dev.json
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\bin\Debug\netcoreapp3.1\Iteration2.dll
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\bin\Debug\netcoreapp3.1\Iteration2.pdb
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\obj\Debug\netcoreapp3.1\Iteration2.dll
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\obj\Debug\netcoreapp3.1\Iteration2.pdb
+C:\Users\61459\Documents\OOP\Code\4.2P\Iteration2\obj\Debug\netcoreapp3.1\Iteration2.genruntimeconfig.cache
